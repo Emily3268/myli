@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gatos para Adoção</title>
+    <link rel="stylesheet" href="bguyfgut.css">
+</head>
+<body>
+    <h1>Gatos filhotes</h1>
+    <h2>Faça uma boa ação</h2>
+   
+    <img src="https://www.petz.com.br/blog/wp-content/uploads/2020/03/banho-em-gato-filhote.jpg" alt="Gatinho filhote" width="500" height="300">
+    <p>Lindo filhote para adoção</p>
+    <p>Filhote com 7 semanas</p>
+    <p>Qualidades: manhoso, carente e comilão</p>
+    <ul>
+        <li>Gatinho laranja</li>
+        <li>Nome: Treloso</li>
+    </ul>
+
+    <img src="https://ga-petfoodpartners.co.uk/content/uploads/2021/07/Kitten-Header-Image.png.webp" alt="Gatinha filhote" width="500" height="300">
+    <p>Linda filhote para adoção</p>
+    <p>Filhote com 7 semanas</p>
+    <p>Qualidades: vaidosa, amorosa e dorminhoca</p>
+    <ul>
+        <li>Gatinha cinza</li>
+        <li>Nome: Mary</li>
+    </ul>
+
+    <h1>Motivos para adotar um gatinho</h1>
+    <ol>
+        <li>Eles são carinhosos</li>
+        <li>Predadores de pequenos insetos e roedores</li>
+        <li>Ótima companhia</li>
+        <li>Apoio emocional</li>
+        <li>Redução do estresse</li>
+        <li>Benefício para os pequenos</li>
+    </ol>
+
+    <p style="color:rgb(216, 78, 78);">Para entrar em contato: 84 98801-8922</p>
+    <p style="color:rgba(243, 62, 107, 0.779);">Volte sempre</p>
+    <br>
+    <h4>"Quando você adota um gato, ganha um companheiro para a vida inteira"</h4>
+</body>
+</html>
